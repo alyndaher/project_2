@@ -1,0 +1,4462 @@
+[
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2008,
+        "Departures (Thousands)": 28
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2009,
+        "Departures (Thousands)": 70
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2010,
+        "Departures (Thousands)": 106
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2011,
+        "Departures (Thousands)": 255
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2012,
+        "Departures (Thousands)": 110
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2013,
+        "Departures (Thousands)": 138
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2014,
+        "Departures (Thousands)": 140
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2015,
+        "Departures (Thousands)": 151
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2016,
+        "Departures (Thousands)": 89
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2017,
+        "Departures (Thousands)": 130
+    },
+    {
+        "Country Name": "AFGHANISTAN",
+        "Year": 2018,
+        "Departures (Thousands)": 226
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2008,
+        "Departures (Thousands)": 3716
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2009,
+        "Departures (Thousands)": 3404
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2010,
+        "Departures (Thousands)": 3443
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2011,
+        "Departures (Thousands)": 4120
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2012,
+        "Departures (Thousands)": 3959
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2013,
+        "Departures (Thousands)": 3928
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2014,
+        "Departures (Thousands)": 4146
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2015,
+        "Departures (Thousands)": 4504
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2016,
+        "Departures (Thousands)": 4852
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2017,
+        "Departures (Thousands)": 5186
+    },
+    {
+        "Country Name": "ALBANIA",
+        "Year": 2018,
+        "Departures (Thousands)": 5415
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2008,
+        "Departures (Thousands)": 1539
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2009,
+        "Departures (Thousands)": 1677
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2010,
+        "Departures (Thousands)": 1757
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2011,
+        "Departures (Thousands)": 1715
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2012,
+        "Departures (Thousands)": 1911
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2013,
+        "Departures (Thousands)": 2136
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2014,
+        "Departures (Thousands)": 2839
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2015,
+        "Departures (Thousands)": 3638
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2016,
+        "Departures (Thousands)": 4530
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2017,
+        "Departures (Thousands)": 5058
+    },
+    {
+        "Country Name": "ALGERIA",
+        "Year": 2018,
+        "Departures (Thousands)": 5610
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2008,
+        "Departures (Thousands)": 4614
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2009,
+        "Departures (Thousands)": 4981
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2010,
+        "Departures (Thousands)": 5307
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2011,
+        "Departures (Thousands)": 6686
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2012,
+        "Departures (Thousands)": 7266
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2013,
+        "Departures (Thousands)": 6746
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2014,
+        "Departures (Thousands)": 6517
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2015,
+        "Departures (Thousands)": 7807
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2016,
+        "Departures (Thousands)": 10417
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2017,
+        "Departures (Thousands)": 12213
+    },
+    {
+        "Country Name": "ARGENTINA",
+        "Year": 2018,
+        "Departures (Thousands)": 11130
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2008,
+        "Departures (Thousands)": 516
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2009,
+        "Departures (Thousands)": 526
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2010,
+        "Departures (Thousands)": 563
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2011,
+        "Departures (Thousands)": 715
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2012,
+        "Departures (Thousands)": 965
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2013,
+        "Departures (Thousands)": 1083
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2014,
+        "Departures (Thousands)": 1198
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2015,
+        "Departures (Thousands)": 1187
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1263
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2017,
+        "Departures (Thousands)": 1482
+    },
+    {
+        "Country Name": "ARMENIA",
+        "Year": 2018,
+        "Departures (Thousands)": 1623
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2008,
+        "Departures (Thousands)": 5808
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2009,
+        "Departures (Thousands)": 6276
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2010,
+        "Departures (Thousands)": 7103
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2011,
+        "Departures (Thousands)": 7788
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2012,
+        "Departures (Thousands)": 8212
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2013,
+        "Departures (Thousands)": 9052
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2014,
+        "Departures (Thousands)": 9480
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2015,
+        "Departures (Thousands)": 9810
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2016,
+        "Departures (Thousands)": 10390
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2017,
+        "Departures (Thousands)": 10932
+    },
+    {
+        "Country Name": "AUSTRALIA",
+        "Year": 2018,
+        "Departures (Thousands)": 11403
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2008,
+        "Departures (Thousands)": 9677
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2009,
+        "Departures (Thousands)": 10121
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2010,
+        "Departures (Thousands)": 9882
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2011,
+        "Departures (Thousands)": 9874
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2012,
+        "Departures (Thousands)": 10960
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2013,
+        "Departures (Thousands)": 10671
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2014,
+        "Departures (Thousands)": 10994
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2015,
+        "Departures (Thousands)": 10628
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2016,
+        "Departures (Thousands)": 11534
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2017,
+        "Departures (Thousands)": 11491
+    },
+    {
+        "Country Name": "AUSTRIA",
+        "Year": 2018,
+        "Departures (Thousands)": 11883
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2008,
+        "Departures (Thousands)": 2162
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2009,
+        "Departures (Thousands)": 2363
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2010,
+        "Departures (Thousands)": 3176
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2011,
+        "Departures (Thousands)": 3550
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2012,
+        "Departures (Thousands)": 3874
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2013,
+        "Departures (Thousands)": 4285
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2014,
+        "Departures (Thousands)": 4244
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2015,
+        "Departures (Thousands)": 4096
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2016,
+        "Departures (Thousands)": 4282
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2017,
+        "Departures (Thousands)": 4109
+    },
+    {
+        "Country Name": "AZERBAIJAN",
+        "Year": 2018,
+        "Departures (Thousands)": 4908
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2008,
+        "Departures (Thousands)": 380
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2009,
+        "Departures (Thousands)": 316
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2010,
+        "Departures (Thousands)": 415
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2011,
+        "Departures (Thousands)": 320
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2012,
+        "Departures (Thousands)": 493
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2013,
+        "Departures (Thousands)": 708
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2014,
+        "Departures (Thousands)": 741
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2015,
+        "Departures (Thousands)": 671
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2016,
+        "Departures (Thousands)": 467
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2017,
+        "Departures (Thousands)": 706
+    },
+    {
+        "Country Name": "BELARUS",
+        "Year": 2018,
+        "Departures (Thousands)": 836
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2008,
+        "Departures (Thousands)": 8887
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2009,
+        "Departures (Thousands)": 8775
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2010,
+        "Departures (Thousands)": 8801
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2011,
+        "Departures (Thousands)": 9727
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2012,
+        "Departures (Thousands)": 9576
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2013,
+        "Departures (Thousands)": 10803
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2014,
+        "Departures (Thousands)": 10991
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2015,
+        "Departures (Thousands)": 10835
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2016,
+        "Departures (Thousands)": 13372
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2017,
+        "Departures (Thousands)": 12142
+    },
+    {
+        "Country Name": "BELGIUM",
+        "Year": 2018,
+        "Departures (Thousands)": 13098
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2008,
+        "Departures (Thousands)": 589
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2009,
+        "Departures (Thousands)": 518
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2010,
+        "Departures (Thousands)": 604
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2011,
+        "Departures (Thousands)": 775
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2012,
+        "Departures (Thousands)": 788
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2013,
+        "Departures (Thousands)": 837
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2014,
+        "Departures (Thousands)": 932
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2015,
+        "Departures (Thousands)": 965
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2016,
+        "Departures (Thousands)": 940
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2017,
+        "Departures (Thousands)": 997
+    },
+    {
+        "Country Name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "Year": 2018,
+        "Departures (Thousands)": 1060
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2008,
+        "Departures (Thousands)": 5238
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2009,
+        "Departures (Thousands)": 4920
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2010,
+        "Departures (Thousands)": 6457
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2011,
+        "Departures (Thousands)": 7807
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2012,
+        "Departures (Thousands)": 8497
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2013,
+        "Departures (Thousands)": 8866
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2014,
+        "Departures (Thousands)": 9617
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2015,
+        "Departures (Thousands)": 9478
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2016,
+        "Departures (Thousands)": 8872
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2017,
+        "Departures (Thousands)": 10610
+    },
+    {
+        "Country Name": "BRAZIL",
+        "Year": 2018,
+        "Departures (Thousands)": 10628
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2008,
+        "Departures (Thousands)": 5727
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2009,
+        "Departures (Thousands)": 4993
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2010,
+        "Departures (Thousands)": 3676
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2011,
+        "Departures (Thousands)": 3803
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2012,
+        "Departures (Thousands)": 3758
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2013,
+        "Departures (Thousands)": 3930
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2014,
+        "Departures (Thousands)": 4158
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2015,
+        "Departures (Thousands)": 4632
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2016,
+        "Departures (Thousands)": 5392
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2017,
+        "Departures (Thousands)": 6228
+    },
+    {
+        "Country Name": "BULGARIA",
+        "Year": 2018,
+        "Departures (Thousands)": 6699
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2008,
+        "Departures (Thousands)": 786
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2009,
+        "Departures (Thousands)": 340
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2010,
+        "Departures (Thousands)": 505
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2011,
+        "Departures (Thousands)": 710
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2012,
+        "Departures (Thousands)": 792
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2013,
+        "Departures (Thousands)": 872
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2014,
+        "Departures (Thousands)": 956
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2015,
+        "Departures (Thousands)": 1194
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1434
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2017,
+        "Departures (Thousands)": 1752
+    },
+    {
+        "Country Name": "CAMBODIA",
+        "Year": 2018,
+        "Departures (Thousands)": 1995
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2008,
+        "Departures (Thousands)": 27034
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2009,
+        "Departures (Thousands)": 26204
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2010,
+        "Departures (Thousands)": 28680
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2011,
+        "Departures (Thousands)": 30450
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2012,
+        "Departures (Thousands)": 32276
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2013,
+        "Departures (Thousands)": 32971
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2014,
+        "Departures (Thousands)": 33518
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2015,
+        "Departures (Thousands)": 32267
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2016,
+        "Departures (Thousands)": 31278
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2017,
+        "Departures (Thousands)": 33060
+    },
+    {
+        "Country Name": "CANADA",
+        "Year": 2018,
+        "Departures (Thousands)": 26033
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2008,
+        "Departures (Thousands)": 1900
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2009,
+        "Departures (Thousands)": 1909
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2010,
+        "Departures (Thousands)": 2219
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2011,
+        "Departures (Thousands)": 2638
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2012,
+        "Departures (Thousands)": 2837
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2013,
+        "Departures (Thousands)": 2999
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2014,
+        "Departures (Thousands)": 3169
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2015,
+        "Departures (Thousands)": 3359
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2016,
+        "Departures (Thousands)": 3553
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2017,
+        "Departures (Thousands)": 3620
+    },
+    {
+        "Country Name": "CHILE",
+        "Year": 2018,
+        "Departures (Thousands)": 3825
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2008,
+        "Departures (Thousands)": 45844
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2009,
+        "Departures (Thousands)": 47656
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2010,
+        "Departures (Thousands)": 57386
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2011,
+        "Departures (Thousands)": 70250
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2012,
+        "Departures (Thousands)": 83182
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2013,
+        "Departures (Thousands)": 98185
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2014,
+        "Departures (Thousands)": 116593
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2015,
+        "Departures (Thousands)": 127860
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2016,
+        "Departures (Thousands)": 135130
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2017,
+        "Departures (Thousands)": 143035
+    },
+    {
+        "Country Name": "CHINA",
+        "Year": 2018,
+        "Departures (Thousands)": 149720
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2008,
+        "Departures (Thousands)": 2042
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2009,
+        "Departures (Thousands)": 2122
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2010,
+        "Departures (Thousands)": 2342
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2011,
+        "Departures (Thousands)": 2522
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2012,
+        "Departures (Thousands)": 3169
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2013,
+        "Departures (Thousands)": 3605
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2014,
+        "Departures (Thousands)": 3911
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2015,
+        "Departures (Thousands)": 3862
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2016,
+        "Departures (Thousands)": 3795
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2017,
+        "Departures (Thousands)": 4017
+    },
+    {
+        "Country Name": "COLOMBIA",
+        "Year": 2018,
+        "Departures (Thousands)": 4368
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2008,
+        "Departures (Thousands)": 13
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2009,
+        "Departures (Thousands)": 12
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2010,
+        "Departures (Thousands)": 12
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2011,
+        "Departures (Thousands)": 13
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2012,
+        "Departures (Thousands)": 12
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2013,
+        "Departures (Thousands)": 12
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2014,
+        "Departures (Thousands)": 12
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2015,
+        "Departures (Thousands)": 13
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2016,
+        "Departures (Thousands)": 14
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2017,
+        "Departures (Thousands)": 13
+    },
+    {
+        "Country Name": "COOK ISLANDS",
+        "Year": 2018,
+        "Departures (Thousands)": 14
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2008,
+        "Departures (Thousands)": 528
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2009,
+        "Departures (Thousands)": 579
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2010,
+        "Departures (Thousands)": 662
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2011,
+        "Departures (Thousands)": 717
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2012,
+        "Departures (Thousands)": 773
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2013,
+        "Departures (Thousands)": 790
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2014,
+        "Departures (Thousands)": 798
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2015,
+        "Departures (Thousands)": 919
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2016,
+        "Departures (Thousands)": 1036
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2017,
+        "Departures (Thousands)": 1150
+    },
+    {
+        "Country Name": "COSTA RICA",
+        "Year": 2018,
+        "Departures (Thousands)": 1079
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2008,
+        "Departures (Thousands)": 2357
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2009,
+        "Departures (Thousands)": 2497
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2010,
+        "Departures (Thousands)": 1873
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2011,
+        "Departures (Thousands)": 2880
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2012,
+        "Departures (Thousands)": 2680
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2013,
+        "Departures (Thousands)": 2927
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2014,
+        "Departures (Thousands)": 2763
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2015,
+        "Departures (Thousands)": 2578
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1615
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2017,
+        "Departures (Thousands)": 1923
+    },
+    {
+        "Country Name": "CROATIA",
+        "Year": 2018,
+        "Departures (Thousands)": 2058
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2008,
+        "Departures (Thousands)": 1210
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2009,
+        "Departures (Thousands)": 1172
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2010,
+        "Departures (Thousands)": 1246
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2011,
+        "Departures (Thousands)": 1209
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2012,
+        "Departures (Thousands)": 1194
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2013,
+        "Departures (Thousands)": 1115
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2014,
+        "Departures (Thousands)": 1209
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2015,
+        "Departures (Thousands)": 1119
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2016,
+        "Departures (Thousands)": 1268
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2017,
+        "Departures (Thousands)": 1407
+    },
+    {
+        "Country Name": "CYPRUS",
+        "Year": 2018,
+        "Departures (Thousands)": 1446
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2008,
+        "Departures (Thousands)": 9665
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2009,
+        "Departures (Thousands)": 8904
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2010,
+        "Departures (Thousands)": 8673
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2011,
+        "Departures (Thousands)": 5279
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2012,
+        "Departures (Thousands)": 5419
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2013,
+        "Departures (Thousands)": 5781
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2014,
+        "Departures (Thousands)": 5651
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2015,
+        "Departures (Thousands)": 5856
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2016,
+        "Departures (Thousands)": 6027
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2017,
+        "Departures (Thousands)": 6775
+    },
+    {
+        "Country Name": "CZECH REPUBLIC",
+        "Year": 2018,
+        "Departures (Thousands)": 7390
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2008,
+        "Departures (Thousands)": 6347
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2009,
+        "Departures (Thousands)": 7037
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2010,
+        "Departures (Thousands)": 7726
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2011,
+        "Departures (Thousands)": 7846
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2012,
+        "Departures (Thousands)": 7843
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2013,
+        "Departures (Thousands)": 6977
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2014,
+        "Departures (Thousands)": 8528
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2015,
+        "Departures (Thousands)": 8991
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2016,
+        "Departures (Thousands)": 9651
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2017,
+        "Departures (Thousands)": 8087
+    },
+    {
+        "Country Name": "DENMARK",
+        "Year": 2018,
+        "Departures (Thousands)": 7475
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2008,
+        "Departures (Thousands)": 413
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2009,
+        "Departures (Thousands)": 415
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2010,
+        "Departures (Thousands)": 401
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2011,
+        "Departures (Thousands)": 408
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2012,
+        "Departures (Thousands)": 418
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2013,
+        "Departures (Thousands)": 392
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2014,
+        "Departures (Thousands)": 427
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2015,
+        "Departures (Thousands)": 478
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2016,
+        "Departures (Thousands)": 500
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2017,
+        "Departures (Thousands)": 522
+    },
+    {
+        "Country Name": "DOMINICAN REPUBLIC",
+        "Year": 2018,
+        "Departures (Thousands)": 514
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2008,
+        "Departures (Thousands)": 815
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2009,
+        "Departures (Thousands)": 814
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2010,
+        "Departures (Thousands)": 899
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2011,
+        "Departures (Thousands)": 1022
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2012,
+        "Departures (Thousands)": 1022
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2013,
+        "Departures (Thousands)": 1138
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2014,
+        "Departures (Thousands)": 1096
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2015,
+        "Departures (Thousands)": 1221
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2016,
+        "Departures (Thousands)": 1366
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2017,
+        "Departures (Thousands)": 1347
+    },
+    {
+        "Country Name": "ECUADOR",
+        "Year": 2018,
+        "Departures (Thousands)": 1402
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2008,
+        "Departures (Thousands)": 692
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2009,
+        "Departures (Thousands)": 752
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2010,
+        "Departures (Thousands)": 955
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2011,
+        "Departures (Thousands)": 1054
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2012,
+        "Departures (Thousands)": 1147
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2013,
+        "Departures (Thousands)": 1166
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2014,
+        "Departures (Thousands)": 1426
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2015,
+        "Departures (Thousands)": 1250
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1339
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2017,
+        "Departures (Thousands)": 1279
+    },
+    {
+        "Country Name": "ESTONIA",
+        "Year": 2018,
+        "Departures (Thousands)": 2069
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2008,
+        "Departures (Thousands)": 1177
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2009,
+        "Departures (Thousands)": 1245
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2010,
+        "Departures (Thousands)": 1141
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2011,
+        "Departures (Thousands)": 1264
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2012,
+        "Departures (Thousands)": 1403
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2013,
+        "Departures (Thousands)": 1573
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2014,
+        "Departures (Thousands)": 1657
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2015,
+        "Departures (Thousands)": 1713
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2016,
+        "Departures (Thousands)": 1789
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2017,
+        "Departures (Thousands)": 1751
+    },
+    {
+        "Country Name": "ESWATINI",
+        "Year": 2018,
+        "Departures (Thousands)": 1717
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2008,
+        "Departures (Thousands)": 5854
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2009,
+        "Departures (Thousands)": 5832
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2010,
+        "Departures (Thousands)": 6633
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2011,
+        "Departures (Thousands)": 7274
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2012,
+        "Departures (Thousands)": 9055
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2013,
+        "Departures (Thousands)": 8562
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2014,
+        "Departures (Thousands)": 8731
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2015,
+        "Departures (Thousands)": 8904
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2016,
+        "Departures (Thousands)": 9125
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2017,
+        "Departures (Thousands)": 9330
+    },
+    {
+        "Country Name": "FINLAND",
+        "Year": 2018,
+        "Departures (Thousands)": 9450
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2008,
+        "Departures (Thousands)": 25506
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2009,
+        "Departures (Thousands)": 25140
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2010,
+        "Departures (Thousands)": 25041
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2011,
+        "Departures (Thousands)": 26155
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2012,
+        "Departures (Thousands)": 25317
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2013,
+        "Departures (Thousands)": 26062
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2014,
+        "Departures (Thousands)": 27919
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2015,
+        "Departures (Thousands)": 26648
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2016,
+        "Departures (Thousands)": 26483
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2017,
+        "Departures (Thousands)": 29055
+    },
+    {
+        "Country Name": "FRANCE",
+        "Year": 2018,
+        "Departures (Thousands)": 26914
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2008,
+        "Departures (Thousands)": 1872
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2009,
+        "Departures (Thousands)": 1980
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2010,
+        "Departures (Thousands)": 2086
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2011,
+        "Departures (Thousands)": 2237
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2012,
+        "Departures (Thousands)": 2734
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2013,
+        "Departures (Thousands)": 3220
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2014,
+        "Departures (Thousands)": 3106
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2015,
+        "Departures (Thousands)": 3136
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2016,
+        "Departures (Thousands)": 3400
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2017,
+        "Departures (Thousands)": 3851
+    },
+    {
+        "Country Name": "GEORGIA",
+        "Year": 2018,
+        "Departures (Thousands)": 3698
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2008,
+        "Departures (Thousands)": 86201
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2009,
+        "Departures (Thousands)": 85547
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2010,
+        "Departures (Thousands)": 85872
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2011,
+        "Departures (Thousands)": 84692
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2012,
+        "Departures (Thousands)": 82729
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2013,
+        "Departures (Thousands)": 87459
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2014,
+        "Departures (Thousands)": 83008
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2015,
+        "Departures (Thousands)": 83737
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2016,
+        "Departures (Thousands)": 90966
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2017,
+        "Departures (Thousands)": 92402
+    },
+    {
+        "Country Name": "GERMANY",
+        "Year": 2018,
+        "Departures (Thousands)": 108542
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2008,
+        "Departures (Thousands)": 3765
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2009,
+        "Departures (Thousands)": 3835
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2010,
+        "Departures (Thousands)": 3799
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2011,
+        "Departures (Thousands)": 4941
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2012,
+        "Departures (Thousands)": 4681
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2013,
+        "Departures (Thousands)": 4594
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2014,
+        "Departures (Thousands)": 5802
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2015,
+        "Departures (Thousands)": 6291
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2016,
+        "Departures (Thousands)": 7235
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2017,
+        "Departures (Thousands)": 7685
+    },
+    {
+        "Country Name": "GREECE",
+        "Year": 2018,
+        "Departures (Thousands)": 7961
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2008,
+        "Departures (Thousands)": 1277
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2009,
+        "Departures (Thousands)": 651
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2010,
+        "Departures (Thousands)": 694
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2011,
+        "Departures (Thousands)": 718
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2012,
+        "Departures (Thousands)": 721
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2013,
+        "Departures (Thousands)": 846
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2014,
+        "Departures (Thousands)": 992
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2015,
+        "Departures (Thousands)": 1130
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2016,
+        "Departures (Thousands)": 1195
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2017,
+        "Departures (Thousands)": 1328
+    },
+    {
+        "Country Name": "GUATEMALA",
+        "Year": 2018,
+        "Departures (Thousands)": 1536
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2008,
+        "Departures (Thousands)": 81911
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2009,
+        "Departures (Thousands)": 81958
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2010,
+        "Departures (Thousands)": 84442
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2011,
+        "Departures (Thousands)": 84816
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2012,
+        "Departures (Thousands)": 85276
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2013,
+        "Departures (Thousands)": 84414
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2014,
+        "Departures (Thousands)": 84519
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2015,
+        "Departures (Thousands)": 89082
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2016,
+        "Departures (Thousands)": 91758
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2017,
+        "Departures (Thousands)": 91304
+    },
+    {
+        "Country Name": "HONG KONG, CHINA",
+        "Year": 2018,
+        "Departures (Thousands)": 92214
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2008,
+        "Departures (Thousands)": 17162
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2009,
+        "Departures (Thousands)": 16640
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2010,
+        "Departures (Thousands)": 16082
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2011,
+        "Departures (Thousands)": 16634
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2012,
+        "Departures (Thousands)": 16143
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2013,
+        "Departures (Thousands)": 16038
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2014,
+        "Departures (Thousands)": 16340
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2015,
+        "Departures (Thousands)": 17276
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2016,
+        "Departures (Thousands)": 18895
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2017,
+        "Departures (Thousands)": 20297
+    },
+    {
+        "Country Name": "HUNGARY",
+        "Year": 2018,
+        "Departures (Thousands)": 22805
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2008,
+        "Departures (Thousands)": 414
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2009,
+        "Departures (Thousands)": 259
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2010,
+        "Departures (Thousands)": 299
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2011,
+        "Departures (Thousands)": 341
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2012,
+        "Departures (Thousands)": 358
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2013,
+        "Departures (Thousands)": 365
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2014,
+        "Departures (Thousands)": 400
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2015,
+        "Departures (Thousands)": 450
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2016,
+        "Departures (Thousands)": 536
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2017,
+        "Departures (Thousands)": 619
+    },
+    {
+        "Country Name": "ICELAND",
+        "Year": 2018,
+        "Departures (Thousands)": 668
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2008,
+        "Departures (Thousands)": 10868
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2009,
+        "Departures (Thousands)": 11067
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2010,
+        "Departures (Thousands)": 12988
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2011,
+        "Departures (Thousands)": 13994
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2012,
+        "Departures (Thousands)": 14920
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2013,
+        "Departures (Thousands)": 16626
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2014,
+        "Departures (Thousands)": 18330
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2015,
+        "Departures (Thousands)": 20376
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2016,
+        "Departures (Thousands)": 21872
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2017,
+        "Departures (Thousands)": 23943
+    },
+    {
+        "Country Name": "INDIA",
+        "Year": 2018,
+        "Departures (Thousands)": 26296
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2008,
+        "Departures (Thousands)": 5486
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2009,
+        "Departures (Thousands)": 5053
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2010,
+        "Departures (Thousands)": 6235
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2011,
+        "Departures (Thousands)": 6750
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2012,
+        "Departures (Thousands)": 7454
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2013,
+        "Departures (Thousands)": 8025
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2014,
+        "Departures (Thousands)": 8074
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2015,
+        "Departures (Thousands)": 8176
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2016,
+        "Departures (Thousands)": 8340
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2017,
+        "Departures (Thousands)": 8856
+    },
+    {
+        "Country Name": "INDONESIA",
+        "Year": 2018,
+        "Departures (Thousands)": 9468
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2008,
+        "Departures (Thousands)": 7877
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2009,
+        "Departures (Thousands)": 7047
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2010,
+        "Departures (Thousands)": 6917
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2011,
+        "Departures (Thousands)": 6514
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2012,
+        "Departures (Thousands)": 6600
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2013,
+        "Departures (Thousands)": 6579
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2014,
+        "Departures (Thousands)": 6676
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2015,
+        "Departures (Thousands)": 7094
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2016,
+        "Departures (Thousands)": 7646
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2017,
+        "Departures (Thousands)": 8171
+    },
+    {
+        "Country Name": "IRELAND",
+        "Year": 2018,
+        "Departures (Thousands)": 8643
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2008,
+        "Departures (Thousands)": 4207
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2009,
+        "Departures (Thousands)": 4007
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2010,
+        "Departures (Thousands)": 4269
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2011,
+        "Departures (Thousands)": 4387
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2012,
+        "Departures (Thousands)": 4349
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2013,
+        "Departures (Thousands)": 4757
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2014,
+        "Departures (Thousands)": 5181
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2015,
+        "Departures (Thousands)": 5891
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2016,
+        "Departures (Thousands)": 6781
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2017,
+        "Departures (Thousands)": 7597
+    },
+    {
+        "Country Name": "ISRAEL",
+        "Year": 2018,
+        "Departures (Thousands)": 8473
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2008,
+        "Departures (Thousands)": 26464
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2009,
+        "Departures (Thousands)": 27490
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2010,
+        "Departures (Thousands)": 28188
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2011,
+        "Departures (Thousands)": 27831
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2012,
+        "Departures (Thousands)": 27376
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2013,
+        "Departures (Thousands)": 26305
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2014,
+        "Departures (Thousands)": 26862
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2015,
+        "Departures (Thousands)": 27494
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2016,
+        "Departures (Thousands)": 29067
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2017,
+        "Departures (Thousands)": 31805
+    },
+    {
+        "Country Name": "ITALY",
+        "Year": 2018,
+        "Departures (Thousands)": 33347
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2008,
+        "Departures (Thousands)": 15987
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2009,
+        "Departures (Thousands)": 15446
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2010,
+        "Departures (Thousands)": 16637
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2011,
+        "Departures (Thousands)": 16994
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2012,
+        "Departures (Thousands)": 18491
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2013,
+        "Departures (Thousands)": 17473
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2014,
+        "Departures (Thousands)": 16903
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2015,
+        "Departures (Thousands)": 16214
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2016,
+        "Departures (Thousands)": 17116
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2017,
+        "Departures (Thousands)": 17889
+    },
+    {
+        "Country Name": "JAPAN",
+        "Year": 2018,
+        "Departures (Thousands)": 18954
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2008,
+        "Departures (Thousands)": 11996
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2009,
+        "Departures (Thousands)": 9494
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2010,
+        "Departures (Thousands)": 12488
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2011,
+        "Departures (Thousands)": 12694
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2012,
+        "Departures (Thousands)": 13737
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2013,
+        "Departures (Thousands)": 14846
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2014,
+        "Departures (Thousands)": 16081
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2015,
+        "Departures (Thousands)": 19310
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2016,
+        "Departures (Thousands)": 22383
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2017,
+        "Departures (Thousands)": 26496
+    },
+    {
+        "Country Name": "KOREA, REPUBLIC OF",
+        "Year": 2018,
+        "Departures (Thousands)": 28696
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2008,
+        "Departures (Thousands)": 2273
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2009,
+        "Departures (Thousands)": 2354
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2010,
+        "Departures (Thousands)": 1342
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2011,
+        "Departures (Thousands)": 3061
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2012,
+        "Departures (Thousands)": 3621
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2013,
+        "Departures (Thousands)": 3993
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2014,
+        "Departures (Thousands)": 3790
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2015,
+        "Departures (Thousands)": 4008
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2016,
+        "Departures (Thousands)": 4185
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2017,
+        "Departures (Thousands)": 4446
+    },
+    {
+        "Country Name": "KYRGYZSTAN",
+        "Year": 2018,
+        "Departures (Thousands)": 6839
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2008,
+        "Departures (Thousands)": 3782
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2009,
+        "Departures (Thousands)": 3268
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2010,
+        "Departures (Thousands)": 3332
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2011,
+        "Departures (Thousands)": 3257
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2012,
+        "Departures (Thousands)": 183
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2013,
+        "Departures (Thousands)": 1776
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2014,
+        "Departures (Thousands)": 1846
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2015,
+        "Departures (Thousands)": 1720
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1939
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2017,
+        "Departures (Thousands)": 2055
+    },
+    {
+        "Country Name": "LATVIA",
+        "Year": 2018,
+        "Departures (Thousands)": 2175
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2008,
+        "Departures (Thousands)": 1757
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2009,
+        "Departures (Thousands)": 1288
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2010,
+        "Departures (Thousands)": 1411
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2011,
+        "Departures (Thousands)": 1526
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2012,
+        "Departures (Thousands)": 1708
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2013,
+        "Departures (Thousands)": 1764
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2014,
+        "Departures (Thousands)": 1789
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2015,
+        "Departures (Thousands)": 1860
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2016,
+        "Departures (Thousands)": 1953
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2017,
+        "Departures (Thousands)": 2032
+    },
+    {
+        "Country Name": "LITHUANIA",
+        "Year": 2018,
+        "Departures (Thousands)": 2244
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2008,
+        "Departures (Thousands)": 1190
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2009,
+        "Departures (Thousands)": 1362
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2010,
+        "Departures (Thousands)": 1237
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2011,
+        "Departures (Thousands)": 1643
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2012,
+        "Departures (Thousands)": 1580
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2013,
+        "Departures (Thousands)": 1624
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2014,
+        "Departures (Thousands)": 1815
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2015,
+        "Departures (Thousands)": 1702
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2016,
+        "Departures (Thousands)": 1588
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2017,
+        "Departures (Thousands)": 1802
+    },
+    {
+        "Country Name": "LUXEMBOURG",
+        "Year": 2018,
+        "Departures (Thousands)": 1989
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2008,
+        "Departures (Thousands)": 606
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2009,
+        "Departures (Thousands)": 671
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2010,
+        "Departures (Thousands)": 753
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2011,
+        "Departures (Thousands)": 908
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2012,
+        "Departures (Thousands)": 1291
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2013,
+        "Departures (Thousands)": 1446
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2014,
+        "Departures (Thousands)": 1537
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2015,
+        "Departures (Thousands)": 1466
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2016,
+        "Departures (Thousands)": 1251
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2017,
+        "Departures (Thousands)": 1391
+    },
+    {
+        "Country Name": "MACAO, CHINA",
+        "Year": 2018,
+        "Departures (Thousands)": 1579
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2008,
+        "Departures (Thousands)": 261
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2009,
+        "Departures (Thousands)": 264
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2010,
+        "Departures (Thousands)": 294
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2011,
+        "Departures (Thousands)": 309
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2012,
+        "Departures (Thousands)": 331
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2013,
+        "Departures (Thousands)": 363
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2014,
+        "Departures (Thousands)": 391
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2015,
+        "Departures (Thousands)": 428
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2016,
+        "Departures (Thousands)": 497
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2017,
+        "Departures (Thousands)": 573
+    },
+    {
+        "Country Name": "MALTA",
+        "Year": 2018,
+        "Departures (Thousands)": 667
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2008,
+        "Departures (Thousands)": 226
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2009,
+        "Departures (Thousands)": 196
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2010,
+        "Departures (Thousands)": 212
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2011,
+        "Departures (Thousands)": 219
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2012,
+        "Departures (Thousands)": 237
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2013,
+        "Departures (Thousands)": 228
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2014,
+        "Departures (Thousands)": 223
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2015,
+        "Departures (Thousands)": 242
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2016,
+        "Departures (Thousands)": 260
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2017,
+        "Departures (Thousands)": 283
+    },
+    {
+        "Country Name": "MAURITIUS",
+        "Year": 2018,
+        "Departures (Thousands)": 296
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2008,
+        "Departures (Thousands)": 14527
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2009,
+        "Departures (Thousands)": 14104
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2010,
+        "Departures (Thousands)": 14334
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2011,
+        "Departures (Thousands)": 14799
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2012,
+        "Departures (Thousands)": 15581
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2013,
+        "Departures (Thousands)": 15911
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2014,
+        "Departures (Thousands)": 18261
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2015,
+        "Departures (Thousands)": 19603
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2016,
+        "Departures (Thousands)": 20223
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2017,
+        "Departures (Thousands)": 19067
+    },
+    {
+        "Country Name": "MEXICO",
+        "Year": 2018,
+        "Departures (Thousands)": 19748
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2008,
+        "Departures (Thousands)": 3421
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2009,
+        "Departures (Thousands)": 2293
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2010,
+        "Departures (Thousands)": 2175
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2011,
+        "Departures (Thousands)": 2378
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2012,
+        "Departures (Thousands)": 2323
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2013,
+        "Departures (Thousands)": 2195
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2014,
+        "Departures (Thousands)": 1850
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2015,
+        "Departures (Thousands)": 1910
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2016,
+        "Departures (Thousands)": 1864
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2017,
+        "Departures (Thousands)": 1849
+    },
+    {
+        "Country Name": "MOROCCO",
+        "Year": 2018,
+        "Departures (Thousands)": 1923
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2008,
+        "Departures (Thousands)": 18399
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2009,
+        "Departures (Thousands)": 18340
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2010,
+        "Departures (Thousands)": 18368
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2011,
+        "Departures (Thousands)": 18560
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2012,
+        "Departures (Thousands)": 18628
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2013,
+        "Departures (Thousands)": 18094
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2014,
+        "Departures (Thousands)": 17928
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2015,
+        "Departures (Thousands)": 18070
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2016,
+        "Departures (Thousands)": 17938
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2017,
+        "Departures (Thousands)": 22095
+    },
+    {
+        "Country Name": "NETHERLANDS",
+        "Year": 2018,
+        "Departures (Thousands)": 22115
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2008,
+        "Departures (Thousands)": 112
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2009,
+        "Departures (Thousands)": 119
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2010,
+        "Departures (Thousands)": 132
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2011,
+        "Departures (Thousands)": 124
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2012,
+        "Departures (Thousands)": 121
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2013,
+        "Departures (Thousands)": 121
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2014,
+        "Departures (Thousands)": 124
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2015,
+        "Departures (Thousands)": 127
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2016,
+        "Departures (Thousands)": 134
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2017,
+        "Departures (Thousands)": 135
+    },
+    {
+        "Country Name": "NEW CALEDONIA",
+        "Year": 2018,
+        "Departures (Thousands)": 139
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2008,
+        "Departures (Thousands)": 1967
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2009,
+        "Departures (Thousands)": 1918
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2010,
+        "Departures (Thousands)": 2026
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2011,
+        "Departures (Thousands)": 2096
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2012,
+        "Departures (Thousands)": 2172
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2013,
+        "Departures (Thousands)": 2197
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2014,
+        "Departures (Thousands)": 2276
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2015,
+        "Departures (Thousands)": 2412
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2016,
+        "Departures (Thousands)": 2611
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2017,
+        "Departures (Thousands)": 2853
+    },
+    {
+        "Country Name": "NEW ZEALAND",
+        "Year": 2018,
+        "Departures (Thousands)": 3038
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2008,
+        "Departures (Thousands)": 942
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2009,
+        "Departures (Thousands)": 858
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2010,
+        "Departures (Thousands)": 908
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2011,
+        "Departures (Thousands)": 912
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2012,
+        "Departures (Thousands)": 979
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2013,
+        "Departures (Thousands)": 994
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2014,
+        "Departures (Thousands)": 959
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2015,
+        "Departures (Thousands)": 925
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2016,
+        "Departures (Thousands)": 981
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2017,
+        "Departures (Thousands)": 982
+    },
+    {
+        "Country Name": "NICARAGUA",
+        "Year": 2018,
+        "Departures (Thousands)": 974
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2008,
+        "Departures (Thousands)": 2062
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2009,
+        "Departures (Thousands)": 1645
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2010,
+        "Departures (Thousands)": 1873
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2011,
+        "Departures (Thousands)": 2446
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2012,
+        "Departures (Thousands)": 2888
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2013,
+        "Departures (Thousands)": 3103
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2014,
+        "Departures (Thousands)": 3358
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2015,
+        "Departures (Thousands)": 3838
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2016,
+        "Departures (Thousands)": 4167
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2017,
+        "Departures (Thousands)": 4473
+    },
+    {
+        "Country Name": "OMAN",
+        "Year": 2018,
+        "Departures (Thousands)": 3350
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2008,
+        "Departures (Thousands)": 369
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2009,
+        "Departures (Thousands)": 336
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2010,
+        "Departures (Thousands)": 392
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2011,
+        "Departures (Thousands)": 414
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2012,
+        "Departures (Thousands)": 447
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2013,
+        "Departures (Thousands)": 619
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2014,
+        "Departures (Thousands)": 853
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2015,
+        "Departures (Thousands)": 740
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2016,
+        "Departures (Thousands)": 770
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2017,
+        "Departures (Thousands)": 917
+    },
+    {
+        "Country Name": "PANAMA",
+        "Year": 2018,
+        "Departures (Thousands)": 681
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2008,
+        "Departures (Thousands)": 278
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2009,
+        "Departures (Thousands)": 288
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2010,
+        "Departures (Thousands)": 302
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2011,
+        "Departures (Thousands)": 347
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2012,
+        "Departures (Thousands)": 400
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2013,
+        "Departures (Thousands)": 440
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2014,
+        "Departures (Thousands)": 426
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2015,
+        "Departures (Thousands)": 1008
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2016,
+        "Departures (Thousands)": 1503
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2017,
+        "Departures (Thousands)": 1548
+    },
+    {
+        "Country Name": "PARAGUAY",
+        "Year": 2018,
+        "Departures (Thousands)": 1266
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2008,
+        "Departures (Thousands)": 1913
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2009,
+        "Departures (Thousands)": 1891
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2010,
+        "Departures (Thousands)": 2058
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2011,
+        "Departures (Thousands)": 2132
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2012,
+        "Departures (Thousands)": 2296
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2013,
+        "Departures (Thousands)": 2364
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2014,
+        "Departures (Thousands)": 2442
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2015,
+        "Departures (Thousands)": 2595
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2016,
+        "Departures (Thousands)": 2751
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2017,
+        "Departures (Thousands)": 2875
+    },
+    {
+        "Country Name": "PERU",
+        "Year": 2018,
+        "Departures (Thousands)": 3078
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2008,
+        "Departures (Thousands)": 50243
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2009,
+        "Departures (Thousands)": 39270
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2010,
+        "Departures (Thousands)": 42760
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2011,
+        "Departures (Thousands)": 43270
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2012,
+        "Departures (Thousands)": 48290
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2013,
+        "Departures (Thousands)": 52580
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2014,
+        "Departures (Thousands)": 35400
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2015,
+        "Departures (Thousands)": 44300
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2016,
+        "Departures (Thousands)": 44500
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2017,
+        "Departures (Thousands)": 46700
+    },
+    {
+        "Country Name": "POLAND",
+        "Year": 2018,
+        "Departures (Thousands)": 48600
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2008,
+        "Departures (Thousands)": 13072
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2009,
+        "Departures (Thousands)": 11723
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2010,
+        "Departures (Thousands)": 10905
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2011,
+        "Departures (Thousands)": 10936
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2012,
+        "Departures (Thousands)": 11149
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2013,
+        "Departures (Thousands)": 11364
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2014,
+        "Departures (Thousands)": 12299
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2015,
+        "Departures (Thousands)": 13118
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2016,
+        "Departures (Thousands)": 16128
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2017,
+        "Departures (Thousands)": 19953
+    },
+    {
+        "Country Name": "ROMANIA",
+        "Year": 2018,
+        "Departures (Thousands)": 21039
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2008,
+        "Departures (Thousands)": 36538
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2009,
+        "Departures (Thousands)": 34276
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2010,
+        "Departures (Thousands)": 39323
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2011,
+        "Departures (Thousands)": 43726
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2012,
+        "Departures (Thousands)": 47813
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2013,
+        "Departures (Thousands)": 54069
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2014,
+        "Departures (Thousands)": 45889
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2015,
+        "Departures (Thousands)": 34550
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2016,
+        "Departures (Thousands)": 31659
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2017,
+        "Departures (Thousands)": 39629
+    },
+    {
+        "Country Name": "RUSSIAN FEDERATION",
+        "Year": 2018,
+        "Departures (Thousands)": 41964
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2008,
+        "Departures (Thousands)": 4087
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2009,
+        "Departures (Thousands)": 6032
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2010,
+        "Departures (Thousands)": 17827
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2011,
+        "Departures (Thousands)": 15281
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2012,
+        "Departures (Thousands)": 18671
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2013,
+        "Departures (Thousands)": 19154
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2014,
+        "Departures (Thousands)": 19824
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2015,
+        "Departures (Thousands)": 20819
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2016,
+        "Departures (Thousands)": 21207
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2017,
+        "Departures (Thousands)": 21146
+    },
+    {
+        "Country Name": "SAUDI ARABIA",
+        "Year": 2018,
+        "Departures (Thousands)": 21866
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2008,
+        "Departures (Thousands)": 54
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2009,
+        "Departures (Thousands)": 49
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2010,
+        "Departures (Thousands)": 59
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2011,
+        "Departures (Thousands)": 48
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2012,
+        "Departures (Thousands)": 45
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2013,
+        "Departures (Thousands)": 47
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2014,
+        "Departures (Thousands)": 50
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2015,
+        "Departures (Thousands)": 56
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2016,
+        "Departures (Thousands)": 68
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2017,
+        "Departures (Thousands)": 74
+    },
+    {
+        "Country Name": "SEYCHELLES",
+        "Year": 2018,
+        "Departures (Thousands)": 72
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2008,
+        "Departures (Thousands)": 73
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2009,
+        "Departures (Thousands)": 72
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2010,
+        "Departures (Thousands)": 76
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2011,
+        "Departures (Thousands)": 99
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2012,
+        "Departures (Thousands)": 104
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2013,
+        "Departures (Thousands)": 111
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2014,
+        "Departures (Thousands)": 93
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2015,
+        "Departures (Thousands)": 61
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2016,
+        "Departures (Thousands)": 92
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2017,
+        "Departures (Thousands)": 110
+    },
+    {
+        "Country Name": "SIERRA LEONE",
+        "Year": 2018,
+        "Departures (Thousands)": 112
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2008,
+        "Departures (Thousands)": 6828
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2009,
+        "Departures (Thousands)": 6961
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2010,
+        "Departures (Thousands)": 7342
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2011,
+        "Departures (Thousands)": 7753
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2012,
+        "Departures (Thousands)": 8048
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2013,
+        "Departures (Thousands)": 8647
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2014,
+        "Departures (Thousands)": 8647
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2015,
+        "Departures (Thousands)": 8903
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2016,
+        "Departures (Thousands)": 9125
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2017,
+        "Departures (Thousands)": 9474
+    },
+    {
+        "Country Name": "SINGAPORE",
+        "Year": 2018,
+        "Departures (Thousands)": 9889
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2008,
+        "Departures (Thousands)": 2459
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2009,
+        "Departures (Thousands)": 2586
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2010,
+        "Departures (Thousands)": 2874
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2011,
+        "Departures (Thousands)": 2722
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2012,
+        "Departures (Thousands)": 2474
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2013,
+        "Departures (Thousands)": 2612
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2014,
+        "Departures (Thousands)": 2642
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2015,
+        "Departures (Thousands)": 2867
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2016,
+        "Departures (Thousands)": 2853
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2017,
+        "Departures (Thousands)": 3013
+    },
+    {
+        "Country Name": "SLOVENIA",
+        "Year": 2018,
+        "Departures (Thousands)": 3188
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2008,
+        "Departures (Thousands)": 11229
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2009,
+        "Departures (Thousands)": 12017
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2010,
+        "Departures (Thousands)": 12379
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2011,
+        "Departures (Thousands)": 13347
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2012,
+        "Departures (Thousands)": 12422
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2013,
+        "Departures (Thousands)": 11246
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2014,
+        "Departures (Thousands)": 11783
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2015,
+        "Departures (Thousands)": 14407
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2016,
+        "Departures (Thousands)": 15405
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2017,
+        "Departures (Thousands)": 17031
+    },
+    {
+        "Country Name": "SPAIN",
+        "Year": 2018,
+        "Departures (Thousands)": 19116
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2008,
+        "Departures (Thousands)": 966
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2009,
+        "Departures (Thousands)": 963
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2010,
+        "Departures (Thousands)": 1122
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2011,
+        "Departures (Thousands)": 1239
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2012,
+        "Departures (Thousands)": 1269
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2013,
+        "Departures (Thousands)": 1262
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2014,
+        "Departures (Thousands)": 1311
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2015,
+        "Departures (Thousands)": 1356
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2016,
+        "Departures (Thousands)": 1448
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2017,
+        "Departures (Thousands)": 1439
+    },
+    {
+        "Country Name": "SRI LANKA",
+        "Year": 2018,
+        "Departures (Thousands)": 1476
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2008,
+        "Departures (Thousands)": 11147
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2009,
+        "Departures (Thousands)": 10453
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2010,
+        "Departures (Thousands)": 10011
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2011,
+        "Departures (Thousands)": 10466
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2012,
+        "Departures (Thousands)": 12098
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2013,
+        "Departures (Thousands)": 12403
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2014,
+        "Departures (Thousands)": 12518
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2015,
+        "Departures (Thousands)": 13601
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2016,
+        "Departures (Thousands)": 13857
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2017,
+        "Departures (Thousands)": 15318
+    },
+    {
+        "Country Name": "SWITZERLAND",
+        "Year": 2018,
+        "Departures (Thousands)": 15285
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2008,
+        "Departures (Thousands)": 8465
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2009,
+        "Departures (Thousands)": 8143
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2010,
+        "Departures (Thousands)": 9415
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2011,
+        "Departures (Thousands)": 9584
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2012,
+        "Departures (Thousands)": 10240
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2013,
+        "Departures (Thousands)": 11053
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2014,
+        "Departures (Thousands)": 11845
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2015,
+        "Departures (Thousands)": 13183
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2016,
+        "Departures (Thousands)": 14589
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2017,
+        "Departures (Thousands)": 15655
+    },
+    {
+        "Country Name": "TAIWAN PROVINCE OF CHINA",
+        "Year": 2018,
+        "Departures (Thousands)": 16645
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2008,
+        "Departures (Thousands)": 3908
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2009,
+        "Departures (Thousands)": 4653
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2010,
+        "Departures (Thousands)": 5451
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2011,
+        "Departures (Thousands)": 5397
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2012,
+        "Departures (Thousands)": 5721
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2013,
+        "Departures (Thousands)": 5970
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2014,
+        "Departures (Thousands)": 6444
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2015,
+        "Departures (Thousands)": 6794
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2016,
+        "Departures (Thousands)": 8204
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2017,
+        "Departures (Thousands)": 8963
+    },
+    {
+        "Country Name": "THAILAND",
+        "Year": 2018,
+        "Departures (Thousands)": 9966
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2008,
+        "Departures (Thousands)": 4893
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2009,
+        "Departures (Thousands)": 5561
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2010,
+        "Departures (Thousands)": 6557
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2011,
+        "Departures (Thousands)": 6282
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2012,
+        "Departures (Thousands)": 5803
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2013,
+        "Departures (Thousands)": 7526
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2014,
+        "Departures (Thousands)": 7982
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2015,
+        "Departures (Thousands)": 8751
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2016,
+        "Departures (Thousands)": 7892
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2017,
+        "Departures (Thousands)": 8887
+    },
+    {
+        "Country Name": "TURKEY",
+        "Year": 2018,
+        "Departures (Thousands)": 8383
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2008,
+        "Departures (Thousands)": 15499
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2009,
+        "Departures (Thousands)": 15334
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2010,
+        "Departures (Thousands)": 17180
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2011,
+        "Departures (Thousands)": 19773
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2012,
+        "Departures (Thousands)": 21433
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2013,
+        "Departures (Thousands)": 23761
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2014,
+        "Departures (Thousands)": 22438
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2015,
+        "Departures (Thousands)": 23142
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2016,
+        "Departures (Thousands)": 24668
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2017,
+        "Departures (Thousands)": 26437
+    },
+    {
+        "Country Name": "UKRAINE",
+        "Year": 2018,
+        "Departures (Thousands)": 27811
+    },
+    {
+        "Country Name": "UNITED ARAB EMIRATES",
+        "Year": 2018,
+        "Departures (Thousands)": 18904
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2008,
+        "Departures (Thousands)": 69011
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2009,
+        "Departures (Thousands)": 58614
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2010,
+        "Departures (Thousands)": 55562
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2011,
+        "Departures (Thousands)": 56836
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2012,
+        "Departures (Thousands)": 56538
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2013,
+        "Departures (Thousands)": 57792
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2014,
+        "Departures (Thousands)": 60082
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2015,
+        "Departures (Thousands)": 65720
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2016,
+        "Departures (Thousands)": 70815
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2017,
+        "Departures (Thousands)": 72772
+    },
+    {
+        "Country Name": "UNITED KINGDOM",
+        "Year": 2018,
+        "Departures (Thousands)": 71733
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2008,
+        "Departures (Thousands)": 63653
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2009,
+        "Departures (Thousands)": 62130
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2010,
+        "Departures (Thousands)": 61061
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2011,
+        "Departures (Thousands)": 59209
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2012,
+        "Departures (Thousands)": 60697
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2013,
+        "Departures (Thousands)": 61344
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2014,
+        "Departures (Thousands)": 68185
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2015,
+        "Departures (Thousands)": 74191
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2016,
+        "Departures (Thousands)": 80223
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2017,
+        "Departures (Thousands)": 87657
+    },
+    {
+        "Country Name": "UNITED STATES OF AMERICA",
+        "Year": 2018,
+        "Departures (Thousands)": 92564
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2008,
+        "Departures (Thousands)": 734
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2009,
+        "Departures (Thousands)": 826
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2010,
+        "Departures (Thousands)": 1027
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2011,
+        "Departures (Thousands)": 1534
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2012,
+        "Departures (Thousands)": 1816
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2013,
+        "Departures (Thousands)": 2281
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2014,
+        "Departures (Thousands)": 2396
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2015,
+        "Departures (Thousands)": 2217
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2016,
+        "Departures (Thousands)": 1715
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2017,
+        "Departures (Thousands)": 1789
+    },
+    {
+        "Country Name": "URUGUAY",
+        "Year": 2018,
+        "Departures (Thousands)": 1947
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2008,
+        "Departures (Thousands)": 19
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2009,
+        "Departures (Thousands)": 20
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2010,
+        "Departures (Thousands)": 21
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2011,
+        "Departures (Thousands)": 22
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2012,
+        "Departures (Thousands)": 23
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2013,
+        "Departures (Thousands)": 26
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2014,
+        "Departures (Thousands)": 26
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2015,
+        "Departures (Thousands)": 27
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2016,
+        "Departures (Thousands)": 25
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2017,
+        "Departures (Thousands)": 28
+    },
+    {
+        "Country Name": "VANUATU",
+        "Year": 2018,
+        "Departures (Thousands)": 29
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2008,
+        "Departures (Thousands)": 593
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2009,
+        "Departures (Thousands)": 631
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2010,
+        "Departures (Thousands)": 650
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2011,
+        "Departures (Thousands)": 693
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2012,
+        "Departures (Thousands)": 720
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2013,
+        "Departures (Thousands)": 2946
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2014,
+        "Departures (Thousands)": 3182
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2015,
+        "Departures (Thousands)": 3393
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2016,
+        "Departures (Thousands)": 3192
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2017,
+        "Departures (Thousands)": 2768
+    },
+    {
+        "Country Name": "ZIMBABWE",
+        "Year": 2018,
+        "Departures (Thousands)": 2987
+    }
+]
