@@ -1,0 +1,16 @@
+body{
+    background-color: #172531;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+    color: #37c5e9;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+#map,
+body,
+html {
+    height: 100%;
+}
