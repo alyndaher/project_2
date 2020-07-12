@@ -41,14 +41,15 @@ def welcome():
 def arrivals():
     session = Session(engine)
 
-    results1 = session.query(Arrival.COUNTRY, Arrival.YEAR, Arrival.ARRIVAL).all()
+    results1 = session.query(Arrival.CONTINENT, Arrival.COUNTRY, Arrival.YEAR, Arrival.ARRIVAL).all()
 
     session.close()
 
     country_arrivals = []
-    for COUNTRY, YEAR, ARRIVAL in results1:
+    for CONTINENT, COUNTRY, YEAR, ARRIVAL in results1:
         arrival_dict = {}
-        arrival_dict['Country Name'] = COUNTRY
+        arrival_dict['Continent'] = CONTINENT
+        arrival_dict['Country'] = COUNTRY
         arrival_dict['Year'] = YEAR
         arrival_dict['Arrival (Thousands)'] = ARRIVAL
         country_arrivals.append(arrival_dict)
@@ -67,14 +68,15 @@ def arrivals():
 def departures():
     session = Session(engine)
 
-    results2 = session.query(Departure.COUNTRY, Departure.YEAR, Departure.DEPARTURE).all()
+    results2 = session.query(Departure.CONTINENT, Departure.COUNTRY, Departure.YEAR, Departure.DEPARTURE).all()
 
     session.close()
 
     country_departures = []
-    for COUNTRY, YEAR, DEPARTURE in results2:
+    for CONTINENT, COUNTRY, YEAR, DEPARTURE in results2:
         departure_dict = {}
-        departure_dict['Country Name'] = COUNTRY
+        departure_dict['Continent'] = CONTINENT
+        departure_dict['Country'] = COUNTRY
         departure_dict['Year'] = YEAR
         departure_dict['Departures (Thousands)'] = DEPARTURE
         country_departures.append(departure_dict)
@@ -90,14 +92,15 @@ def departures():
 def expenditures():
     session = Session(engine)
 
-    results3 = session.query(Expenditure.COUNTRY, Expenditure.YEAR, Expenditure.EXPENDITURE).all()
+    results3 = session.query(Expenditure.CONTINENT, Expenditure.COUNTRY, Expenditure.YEAR, Expenditure.EXPENDITURE).all()
 
     session.close()
 
     country_expenditure = []
-    for COUNTRY, YEAR, EXPENDITURE in results3:
+    for CONTINENT, COUNTRY, YEAR, EXPENDITURE in results3:
         expenditure_dict = {}
-        expenditure_dict['Country Name'] = COUNTRY
+        expenditure_dict['Continent'] = CONTINENT
+        expenditure_dict['Country'] = COUNTRY
         expenditure_dict['Year'] = YEAR
         expenditure_dict['Expenditures (Millions)'] = EXPENDITURE
         country_expenditure.append(expenditure_dict)
