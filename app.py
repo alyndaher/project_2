@@ -51,7 +51,7 @@ def arrivals():
         arrival_dict['Continent'] = CONTINENT
         arrival_dict['Country'] = COUNTRY
         arrival_dict['Year'] = YEAR
-        arrival_dict['Arrival (Thousands)'] = ARRIVAL
+        arrival_dict['Arrival'] = ARRIVAL
         country_arrivals.append(arrival_dict)
     
     #create json arrival file
@@ -78,7 +78,7 @@ def departures():
         departure_dict['Continent'] = CONTINENT
         departure_dict['Country'] = COUNTRY
         departure_dict['Year'] = YEAR
-        departure_dict['Departures (Thousands)'] = DEPARTURE
+        departure_dict['Departures'] = DEPARTURE
         country_departures.append(departure_dict)
     
     #create json departure file
@@ -102,7 +102,7 @@ def expenditures():
         expenditure_dict['Continent'] = CONTINENT
         expenditure_dict['Country'] = COUNTRY
         expenditure_dict['Year'] = YEAR
-        expenditure_dict['Expenditures (Millions)'] = EXPENDITURE
+        expenditure_dict['Expenditures'] = EXPENDITURE
         country_expenditure.append(expenditure_dict)
 
     #create json departure file
