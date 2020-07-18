@@ -37,7 +37,7 @@ function createFeatures(arrivalData){
 }
 
 function createMap(arrivalMarkers) {
-    var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiamFtZXNraS1kIiwiYSI6ImNrYzE1OHJkbTFxZ3cyc3FkazBnYjZycG0ifQ.v8Io_88x1OMa6Pwt5Oj4tA");
+    var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=*******API_TOKEN_GOES_HERE********");
     var baseMaps = {
         "Dark Map": darkmap
     };
