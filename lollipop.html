@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2 - Tourism</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" type="text/css" href="styles.css" media="screen">
+    <!-- Bootstrap js/css bundle -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!-- Our own CSS stylesheet -->
+    <link rel="stylesheet" type="text/css" href="styles.css" media="screen">
+    <!--D3 cdn-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+    integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+    crossorigin=""></script>
+
+</head>
+
+<body>
+
+    <h2 class ="text-uppercase"> International Departures by Continent (Thousands)</h2>
+    <!-- The div that holds our map -->
+    <div id="map-id"></div>
+
+    <body>
+        <!-- The div where we will inject our map -->
+        <div id="my_dataviz"></div>
+        <!-- Add buttons -->
+          <button onclick="update('2008')">2008</button>
+          <button onclick="update('2009')">2009</button>
+          <button onclick="update('2010')">2010</button>
+          <button onclick="update('2011')">2011</button>
+          <button onclick="update('2012')">2012</button>
+          <button onclick="update('2013')">2013</button>
+          <button onclick="update('2014')">2014</button>
+          <button onclick="update('2015')">2015</button>
+          <button onclick="update('2016')">2016</button>
+          <button onclick="update('2017')">2017</button>
+          <button onclick="update('2018')">2018</button>
+
+        <!--JavaScript//-->
+        <script type="text/javascript" src="lollipopfinal.js"></script>
+      </body>
+      </html>
+
+</body>
+</html>
