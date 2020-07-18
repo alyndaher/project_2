@@ -14,14 +14,14 @@
     <link rel="stylesheet" href="styles.css" media="screen">
 
     <style>
-        body {
-          background-image: url('http://i.huffpost.com/gen/4259400/images/o-THAILAND-TOURISM-facebook.jpg');
-          background-size: 100%;
-          background-repeat: repeat;
-          background-attachment: fixed;
-          background-position: center;
-        }
-      </style>
+      body {
+        background-image: url('http://i.huffpost.com/gen/4259400/images/o-THAILAND-TOURISM-facebook.jpg');
+        background-size: 100%;
+        background-repeat: repeat;
+        background-attachment: fixed;
+        background-position: center;
+      }
+    </style>
 
 </head>
 
@@ -61,25 +61,48 @@
     </nav>
 
 
-    <div class = "jumbotron">
-        <div>
-            <h1 class="d-flex justify-content-center">Tourism</h1>
-        </div>
+    <div class = "mt-5" class="well">
+    <div class="d-flex justify-content-center"><select class = span class="border-right" id="selDataset1" onchange="optionChanged1(this.value)"></select></div>
+    </div>
+ 
+  
+  <div class = "jumbotron" style="background-color:#1B2B57" class="container">
+      <h2 class="d-flex justify-content-center">Tourism Arrivals (Thousands)</h2>
 
-        <div class="row" >
-          <div class="col">
-          </div>
-        <div class="col-10" >
-          <p class = text-dark>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ut, provident quos sunt amet distinctio eveniet natus sed modi non consequuntur. 
-            Quaerat harum sed excepturi laborum tempora quae impedit in! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ut, provident quos sunt amet distinctio eveniet natus sed modi non consequuntur. 
-            Quaerat harum sed excepturi laborum tempora quae impedit in!Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ut, provident quos sunt amet distinctio eveniet natus sed modi non consequuntur. 
-            Quaerat harum sed excepturi laborum tempora quae impedit in!Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ut, provident quos sunt amet distinctio eveniet natus sed modi non consequuntur. 
-            Quaerat harum sed excepturi laborum tempora quae impedit in!
-          </p>
-          </div>
-          <div class="col"></div>
-        </div>
-      </div>
+    
+    <div class="d-flex justify-content-center" class="row">
+  <!-- The div that holds our linechart -->
+          <div class="linechart"></div>
+  </div>
+
+  <div class = "jumbotron">
+  <div class="row" >
+    <div class="col">
+    </div>
+  <div class="col-10" >
+    <p class = text-dark>This arrival data set consists of 177 countries. The data includes number of international travelers that arrived in each country over the span of 10 years (2008-2018). 
+      Select the country from the drop-down to view arrivals over time. The line chart below depicts the top 5 countries with arrivals from France, United States of America, Spain, Hong Kong, and China. 
+      Approximately 90 million people visited France in 2018. 
+    </p>
+    </div>
+    <div class="col"></div>
+  </div>
+</div>
+
+
+  <div class = "mt-5"><h5 class="d-flex justify-content-center" class="d-flex p-2">Top 5 Countries</h5> </div>
+
+  <div >
+    <div>
+    <div class="d-flex justify-content-center" class="row">
+      <!-- The div that holds our linechart -->
+      <div class="linechart1"></div>
+    </div>
+    </div>
+    </div>
+
+  </div>
+        
     
 
     <!-- API key
