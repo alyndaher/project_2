@@ -79,18 +79,17 @@ d3.csv("allyearsdeparture.csv").then(function(data) {
         .attr("cx", function(d) { return x(d.CONTINENT); })
         .attr("cy", function(d) { return y(d[selectedVar]); })
         //circle size
-        .attr("r", 4)
+        .attr("r", 7)
         //circle fill color
-        .attr("fill", "#69b3a2")
-        .attr("stroke", "black");
+        .attr("fill", "#37c5e9")
+        .attr("stroke", "#37c5e9");
 //Add Title
 svg.append("text")
         .attr("x", (width / 2))             
         .attr("y", 0 - (margin.top / 2))
         .attr("text-anchor", "middle")  
         .style("font-size", "16px") 
-        .style("text-decoration", "underline")  
-        .text("International Departures Graph");
+        .style("text-decoration", "underline");
 
 });}
 

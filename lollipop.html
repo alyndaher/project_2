@@ -23,17 +23,64 @@
     integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
     crossorigin=""></script>
 
+    <style>
+      body {
+        background-image: url('http://i.huffpost.com/gen/4259400/images/o-THAILAND-TOURISM-facebook.jpg');
+        background-size: 100%;
+        background-repeat: repeat;
+        background-attachment: fixed;
+        background-position: center;
+      }
+    </style>
+
+
 </head>
 
 <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">TEAM 1</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Arrivals</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Departures</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Expenditures</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Map View</a>
+        </li>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
 
+  <div class = "mt-5" class="well">
+    <div>
+      <p>
+      </p>
+    </div>
+    </div>
+ 
+  <div class = "jumbotron" style="background-color:#1B2B57" class="container">
     <h2 class ="text-uppercase"> International Departures by Continent (Thousands)</h2>
     <!-- The div that holds our map -->
     <div id="map-id"></div>
 
-    <body>
+    <div class="d-flex justify-content-center">
         <!-- The div where we will inject our map -->
         <div id="my_dataviz"></div>
+      </div>
+
+    <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center" class = "container">
         <!-- Add buttons -->
           <button onclick="update('2008')">2008</button>
           <button onclick="update('2009')">2009</button>
@@ -46,11 +93,10 @@
           <button onclick="update('2016')">2016</button>
           <button onclick="update('2017')">2017</button>
           <button onclick="update('2018')">2018</button>
-
-        <!--JavaScript//-->
-        <script type="text/javascript" src="lollipopfinal.js"></script>
-      </body>
-      </html>
-
+        </div>
+    </div>
+    
+    <!--JavaScript//-->
+    <script type="text/javascript" src="lollipopfinal.js"></script>
 </body>
 </html>

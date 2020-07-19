@@ -1,7 +1,7 @@
 // Create a map object
 var myMap = L.map("map", {
-    center: [15.5994, -28.6731],
-    zoom: 2
+    center: [27.043961, 18.02328],
+    zoom: 3
   });
 
 
@@ -17424,74 +17424,46 @@ var myMap = L.map("map", {
       longitude: 29.154857
     }
    ];
-  
-  //FOR LOOP TO GRAB ONLY 2018 DATA
-  countries_new = [];
-  for (let i = 0; i <countries.length; i++) {
-   if (countries[i].year === 2018 ) {
-   countries_filtered = [];
-   countries_filtered["year"] = countries[i].year
-   countries_filtered["country"] = countries[i].country
-   countries_filtered["arrival"] = countries[i].arrival
-   countries_filtered["latitude"] = countries[i].latitude
-   countries_filtered["longitude"] = countries[i].longitude
-   countries_new.push(countries_filtered);
-     }
-  }
-  console.log(countries_new);
- // Loop through the countries array and create one marker for each country object
- for (var i = 0; i < countries_new.length; i++) {
-   // Conditionals for countries points
-   var color = "";
-   if (countries_new[i].arrival > 50000) {
-     color = "red";
+
+
+//FOR LOOP TO GRAB ONLY 2018 DATA
+countries_new = [];
+for (let i = 0; i <countries.length; i++) {
+ if (countries[i].year === 2018 ) {
+ countries_filtered = [];
+ countries_filtered["year"] = countries[i].year
+ countries_filtered["country"] = countries[i].country
+ countries_filtered["arrival"] = countries[i].arrival
+ countries_filtered["latitude"] = countries[i].latitude
+ countries_filtered["longitude"] = countries[i].longitude
+ countries_new.push(countries_filtered);
    }
-   else if (countries_new[i].arrival > 15000) {
-     color = "orange";
-   }
-   else if (countries_new[i].arrival > 100) {
-     color = "yellow";
-   }
-   else {
-     color = "blue";
-   }
-   // Add circles to map
-   L.circle([countries_new[i].latitude, countries_new[i].longitude], {
-     fillOpacity: 0.75,
-     color: color,
-     fillColor: color,
-     // Adjust radius
-     radius: countries_new[i].arrival * 5
-   }).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals: " + countries_new[i].arrival + "</h3>").addTo(myMap);
-  //Loop through the countries array and create one marker for each country object
-  for (var i = 0; i < countries.length; i++) {
-    // #38588C
-    // #1E9B8A
-    // #92D95C
-    // #FDE724
-    // Conditionals for countries points
-    var color = "";
-    if (countries[i].arrival > 50000) {
-      color = "#FDE724";
-    }
-    else if (countries[i].arrival > 15000) {
-      color = "#92D95C";
-    }
-    else if (countries[i].arrival > 100) {
-      color = "#1E9B8A";
-    }
-    else {
-      color = "#38588C";
-    }
-  
-    // Add circles to map
-    L.circle([countries[i].latitude, countries[i].longitude], {
-      fillOpacity: 0.75,
-      color: color,
-      fillColor: color,
-      // Adjust radius
-      radius: countries[i].arrival * 5
-    }).bindPopup("<h1>" + countries[i].country + "</h1> <hr> <h3>Arrivals: " + countries[i].arrival + "</h3>").addTo(myMap);
-  }
 }
+console.log(countries_new);
+// Loop through the countries array and create one marker for each country object
+for (var i = 0; i < countries_new.length; i++) {
+ // Conditionals for countries points
+ var color = "";
+ if (countries_new[i].arrival > 50000) {
+   color = "#FDE724";
+ }
+ else if (countries_new[i].arrival > 15000) {
+   color = "#92D95C";
+ }
+ else if (countries_new[i].arrival > 100) {
+   color = "#1E9B8A";
+ }
+ else {
+   color = "#38588C";
+ }
+ // Add circles to map
+ L.circle([countries_new[i].latitude, countries_new[i].longitude], {
+   fillOpacity: 0.75,
+   color: color,
+   fillColor: color,
+   // Adjust radius
+   radius: countries_new[i].arrival * 5
+ }).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals: " + countries_new[i].arrival + "</h3>").addTo(myMap);
+}
+
   
