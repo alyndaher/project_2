@@ -17463,7 +17463,25 @@ for (var i = 0; i < countries_new.length; i++) {
    fillColor: color,
    // Adjust radius
    radius: countries_new[i].arrival * 5
- }).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals: " + countries_new[i].arrival + "</h3>").addTo(myMap);
+ }).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals in 2018: " + countries_new[i].arrival * 1000+ "</h3>").addTo(myMap);
 }
+
+//Create legend
+let legend = L.control({position: 'bottomright'});
+legend.onAdd = function(map) {
+  
+  let colors = ["#38588C","#1E9B8A","#92D95C","#FDE724"]
+  let div = L.DomUtil.create('div', 'info legend'),
+    mags = [0,100,15000,50000],
+    labels = [];
+
+  div.innerHTML = "Arrivals in Thousands <br>"
+  for (let i = 0; i < mags.length; i++) {
+    div.innerHTML += '<i style = "background:' + colors[i] + '"></i> ' + mags[i] + (mags[i +1] ? '&ndash;' + mags[i+1] + '<br>' : '+');
+  }
+
+  return div;
+};
+legend.addTo(myMap);
 
   
