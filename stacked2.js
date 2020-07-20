@@ -20,12 +20,12 @@ d3.csv("data/expenditures2.csv", function(data) {
   //////////
 
   // List of groups = header of the csv files
-  var keys = ["africa", "asia", "europe", "northAmerica", "oceania", "southAmerica"]
+  var keys = ["Africa", "Asia", "Europe", "NorthAmerica", "Oceania", "SouthAmerica"]
 
   // color palette
   var color = d3.scaleOrdinal()
     .domain(keys)
-    .range(d3.schemeSet2);
+    .range(['#E41A1C','#377EB8','#4DAF4A','#984EA3','#FF7F00','#FFFF33','#A65628','#F781BF']);
 
   //stack the data?
   var stackedData = d3.stack()
@@ -63,7 +63,7 @@ d3.csv("data/expenditures2.csv", function(data) {
 
   // Add Y axis
   var y = d3.scaleLinear()
-    .domain([0, 200000])
+    .domain([0, 1400000])
     .range([ height, 0 ]);
   svg.append("g")
     .call(d3.axisLeft(y).ticks(5))
