@@ -17457,13 +17457,16 @@ for (var i = 0; i < countries_new.length; i++) {
    color = "#38588C";
  }
  // Add circles to map
- L.circle([countries_new[i].latitude, countries_new[i].longitude], {
-   fillOpacity: 0.75,
-   color: color,
-   fillColor: color,
-   // Adjust radius
-   radius: countries_new[i].arrival * 5
- }).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals in 2018: " + countries_new[i].arrival * 1000+ "</h3>").addTo(myMap);
+ L.circleMarker([countries_new[i].latitude, countries_new[i].longitude], {
+  color: color,
+  opacity: .7,
+  weight: 10,
+  fill: true,
+  fillColor: color,
+  fillOpacity: .7,
+  // Adjust radius
+  radius: countries_new[i].arrival * .0005
+}).bindPopup("<h1>" + countries_new[i].country + "</h1> <hr> <h3>Arrivals in 2018: " + countries_new[i].arrival * 1000 + "</h3>").addTo(myMap);
 }
 
 //Create legend
