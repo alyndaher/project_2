@@ -1,5 +1,5 @@
 // set the dimensions and margins of the graph
-var margin = {top: 60, right: 230, bottom: 50, left: 50},
+var margin = {top: 60, right: 230, bottom: 50, left: 60},
     width = 660 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom;
 
@@ -44,21 +44,21 @@ d3.csv("data/expenditures2.csv", function(data) {
     .range([ 0, width ]);
   var xAxis = svg.append("g")
     .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x).ticks(5))
+    .call(d3.axisBottom(x).ticks(11))
 
   // Add X axis label:
   svg.append("text")
       .attr("text-anchor", "end")
       .attr("x", width)
       .attr("y", height+40 )
-      .text("Time (year)");
+      .text("Year");
 
   // Add Y axis label:
   svg.append("text")
       .attr("text-anchor", "end")
       .attr("x", 0)
       .attr("y", -20 )
-      .text("Expenditures")
+      .text("Expenditures in Millions")
       .attr("text-anchor", "start")
 
   // Add Y axis
