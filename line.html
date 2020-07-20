@@ -13,6 +13,9 @@
     <!-- Our own CSS stylesheet -->
     <link rel="stylesheet" href="styles.css" media="screen">
 
+    <!-- Font-awesome library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <style>
       body {
         background-image: url('http://i.huffpost.com/gen/4259400/images/o-THAILAND-TOURISM-facebook.jpg');
@@ -28,23 +31,24 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">TEAM 1</a>
+    <a class="fa fa-bar-chart"></a>
+    <a class="navbar-brand" href="./index.html">TEAM 1</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Arrivals</a>
+          <a class="nav-link" href="./line.html">Arrivals</a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Departures</a>
+        <li class="nav-item">
+          <a class="nav-link" href="./lollipop.html">Departures</a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Expenditures</a>
+        <li class="nav-item">
+          <a class="nav-link" href="./stacked.html">Expenditures</a>
         </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Map View</a>
+        <li class="nav-item">
+          <a class="nav-link" href="./satmap.html">Map View</a>
         </li>
           </div>
         </li>
@@ -52,7 +56,7 @@
     </div>
   </nav>
 
-
+  <div id="myElement">
     <div class = "mt-5" class="well">
     <div class="d-flex justify-content-center"><select class = span class="border-right" id="selDataset1" onchange="optionChanged1(this.value)"></select></div>
     </div>
@@ -94,6 +98,7 @@
     </div>
 
   </div>
+</div>
         
     
 
@@ -101,6 +106,7 @@
     <script type="text/javascript" src="assets/js/config.js"></script> -->
     <!-- D3 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+    
     <!-- Leaflet JavaScript -->
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
     integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
